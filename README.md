@@ -1,2 +1,2 @@
 # NewActionGame
-blah blah blah
+progetto per giochino piattaforma Android
